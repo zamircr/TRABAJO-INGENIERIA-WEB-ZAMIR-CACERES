@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-[Inserta aquí la descripción general del proyecto, sus objetivos, alcance y propósito]
+Traduce los requisitos de una aplicación web simple en un diseño detallado de la interfaz y de los componentes front-end, aplicando principios de diseño de software (abstracción, modularidad, separación de responsabilidades, bajo acoplamiento, alta cohesión) y patrones básicos, documentando el diseño mediante modelos estructurales y de comportamiento (wireframes, diagramas de componentes, flujos de interacción) y considerando cualidades como accesibilidad, usabilidad, modificabilidad e interoperabilidad.
 
 ### Objetivos Principales
 - [Objetivo 1]
