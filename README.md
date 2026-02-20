@@ -7,7 +7,7 @@ Traduce los requisitos de una aplicación web simple en un diseño detallado de 
 ## Enlaces Importantes
 
 ### Figma
-- **Share Link**: [[Inserta aquí el enlace compartido de Figma]](https://www.figma.com/site/vV5WEi0akOwCiWbdFsDDCJ/Sin-t%C3%ADtulo?node-id=0-1&t=wveH7Bful4atJwl1-1)
+- **Share Link**: (https://www.figma.com/site/vV5WEi0akOwCiWbdFsDDCJ/Sin-t%C3%ADtulo?node-id=0-1&t=wveH7Bful4atJwl1-1)
 
 ---
 
